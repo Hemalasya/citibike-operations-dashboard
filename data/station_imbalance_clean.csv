@@ -1,0 +1,489 @@
+station_id,station_name,latitude,longitude,active_days,departures,arrivals,net_flow,avg_daily_net_flow,am_rush_net_flow,pm_rush_net_flow,station_type,status
+3230,Penn Station Valet,40.751283596962296,-73.99692445993422,67,16432,9155,-7277,-108.6,-14236,8416,Temporary,Runs out of bikes
+3236,PABT Valet,40.758984813996335,-73.99379968643187,46,4433,1833,-2600,-56.5,-3706,1506,Temporary,Runs out of bikes
+521,8 Ave & W 31 St,40.75096734871598,-73.99444207549094,702,200937,164305,-36632,-52.2,-72568,47097,Established,Runs out of bikes
+3014,E.T. Bike-In Movie Valet Station,40.722852,-73.959114,4,312,166,-146,-36.5,0,16,Temporary,Runs out of bikes
+519,Pershing Square North,40.751873,-73.977706,728,196598,172145,-24453,-33.6,-12270,-4893,Established,Runs out of bikes
+517,E 41 St & Madison Ave,40.752141,-73.979782,729,82970,63896,-19074,-26.2,-2459,-8499,Established,Runs out of bikes
+465,Broadway & W 41 St,40.75513557,-73.98658032,715,82594,68621,-13973,-19.5,1547,-12170,Established,Runs out of bikes
+2021,W 45 St & 8 Ave,40.75929124,-73.98859651,714,58520,47082,-11438,-16.0,-1918,-3976,Established,Runs out of bikes
+500,Broadway & W 51 St,40.76228826,-73.98336183,715,58550,48219,-10331,-14.4,8872,-11966,Established,Runs out of bikes
+3133,E 67 St & Lexington Ave,40.76734259143217,-73.9648586511612,25,2668,2318,-350,-14.0,-29,-111,Newer (<365 days),Runs out of bikes
+529,W 42 St & 8 Ave,40.7575699,-73.99098507,729,89809,79767,-10042,-13.8,-25756,25081,Established,Runs out of bikes
+490,8 Ave & W 33 St,40.751551,-73.993934,729,123369,113394,-9975,-13.7,-11362,12075,Established,Runs out of bikes
+3164,Columbus Ave & W 72 St,40.7770575,-73.97898475,107,11427,9993,-1434,-13.4,-2140,1082,Newer (<365 days),Runs out of bikes
+3016,Mobile 01,40.771051856415305,-73.9643383026123,3,1031,992,-39,-13.0,0,0,Temporary,Runs out of bikes
+3134,3 Ave & E 62 St,40.76312584,-73.96526895,120,7619,6070,-1549,-12.9,-359,-359,Newer (<365 days),Runs out of bikes
+468,Broadway & W 55 St,40.7652654,-73.98192338,717,61487,52779,-8708,-12.1,699,-3806,Established,Runs out of bikes
+469,Broadway & W 53 St,40.76344058,-73.98268129,724,45254,36718,-8536,-11.8,3617,-6501,Established,Runs out of bikes
+3170,W 84 St & Columbus Ave,40.78499979,-73.97283406,111,9192,7910,-1282,-11.5,-1418,718,Newer (<365 days),Runs out of bikes
+318,E 43 St & Vanderbilt Ave,40.75320159,-73.9779874,625,96962,89979,-6983,-11.2,-4896,-2183,Established,Runs out of bikes
+362,Broadway & W 37 St,40.75172632,-73.98753523,708,44853,36894,-7959,-11.2,3834,-7144,Established,Runs out of bikes
+3163,Central Park West & W 68 St,40.7734066,-73.97782542,89,7577,6669,-908,-10.2,-721,217,Newer (<365 days),Runs out of bikes
+511,E 14 St & Avenue B,40.72938685,-73.97772429,730,80453,72977,-7476,-10.2,-24518,9963,Established,Runs out of bikes
+267,Broadway & W 36 St,40.75097711,-73.98765428,709,46365,39459,-6906,-9.7,404,-5116,Established,Runs out of bikes
+3158,W 63 St & Broadway,40.77163851,-73.98261428,123,10967,9881,-1086,-8.8,-388,326,Newer (<365 days),Runs out of bikes
+3160,Central Park West & W 76 St,40.77896784,-73.97374737,85,6905,6228,-677,-8.0,-906,248,Newer (<365 days),Runs out of bikes
+447,8 Ave & W 52 St,40.76370739,-73.9851615,728,65861,60541,-5320,-7.3,-1377,-1946,Established,Runs out of bikes
+457,Broadway & W 58 St,40.76695317,-73.98169333,727,87766,82818,-4948,-6.8,-709,-1850,Established,Runs out of bikes
+449,W 52 St & 9 Ave,40.76461837,-73.98789473,725,41358,36448,-4910,-6.8,-1981,196,Established,Runs out of bikes
+3139,E 72 St & Park Ave,40.77118287540657,-73.96409422159195,108,6942,6238,-704,-6.5,-557,213,Newer (<365 days),Runs out of bikes
+533,Broadway & W 39 St,40.75299641,-73.98721619,690,51314,46867,-4447,-6.4,3058,-4201,Established,Runs out of bikes
+3172,W 74 St & Columbus Ave,40.7785669,-73.97754961,115,5963,5228,-735,-6.4,-1103,581,Newer (<365 days),Runs out of bikes
+356,Bialystoker Pl & Delancey St,40.71622644,-73.98261206,729,34640,30459,-4181,-5.7,-9484,3639,Established,Runs out of bikes
+3175,W 70 St & Amsterdam Ave,40.77748046,-73.98288594,115,9218,8578,-640,-5.6,-1196,944,Newer (<365 days),Runs out of bikes
+391,Clark St & Henry St,40.69760127,-73.99344559,690,27865,24157,-3708,-5.4,-2108,-21,Established,Runs out of bikes
+501,FDR Drive & E 35 St,40.744219,-73.97121214,726,55332,51652,-3680,-5.1,-12089,8906,Established,Runs out of bikes
+153,E 40 St & 5 Ave,40.752062307,-73.9816324043,599,61962,58959,-3003,-5.0,6591,-7164,Established,Runs out of bikes
+167,E 39 St & 3 Ave,40.7489006,-73.97604882,711,68278,64728,-3550,-5.0,4806,-5487,Established,Runs out of bikes
+3178,Riverside Dr & W 78 St,40.78414472,-73.98362492,114,5245,4691,-554,-4.9,-1399,571,Newer (<365 days),Balanced
+262,Washington Park,40.69178232,-73.97372989,723,13504,10014,-3490,-4.8,-4375,929,Established,Balanced
+505,6 Ave & W 33 St,40.74901271,-73.98848395,729,87440,83964,-3476,-4.8,-1221,-406,Established,Balanced
+498,Broadway & W 32 St,40.74854862,-73.98808416,725,77305,73867,-3438,-4.7,-540,-1215,Established,Balanced
+383,Greenwich Ave & Charles St,40.735238,-74.000271,707,62642,59375,-3267,-4.6,-6025,4239,Established,Balanced
+450,W 49 St & 8 Ave,40.76227205,-73.98788205,677,62967,60049,-2918,-4.3,-1953,-1189,Established,Balanced
+173,Broadway & W 49 St,40.76064679,-73.98442659,698,71219,68265,-2954,-4.2,6217,-7467,Established,Balanced
+363,West Thames St,40.70834698,-74.01713445,729,64342,61378,-2964,-4.1,-7928,3112,Established,Balanced
+281,Grand Army Plaza & Central Park S,40.7643971,-73.97371465,728,93368,90369,-2999,-4.1,11587,-11070,Established,Balanced
+3167,Amsterdam Ave & W 73 St,40.77966809007312,-73.98093044757842,95,8104,7721,-383,-4.0,-1269,994,Newer (<365 days),Balanced
+3231,E 67 St & Park Ave,40.76780080148132,-73.96592080593109,99,6396,6023,-373,-3.8,166,-167,Newer (<365 days),Balanced
+150,E 2 St & Avenue C,40.7208736,-73.98085795,725,37894,35120,-2774,-3.8,-8632,4359,Established,Balanced
+3136,5 Ave & E 63 St,40.76650452,-73.97147595,108,6893,6482,-411,-3.8,708,-500,Newer (<365 days),Balanced
+3169,Riverside Dr & W 82 St,40.78720869,-73.98128127,112,6603,6177,-426,-3.8,-1692,1014,Newer (<365 days),Balanced
+3165,Central Park West & W 72 St,40.77579376683666,-73.9762057363987,92,11688,11350,-338,-3.7,-1198,620,Newer (<365 days),Balanced
+3149,E 82 St & 2 Ave,40.77517793,-73.95324922,71,3089,2823,-266,-3.7,-856,693,Newer (<365 days),Balanced
+3142,1 Ave & E 62 St,40.7612274,-73.96094022,120,10651,10207,-444,-3.7,-839,569,Newer (<365 days),Balanced
+472,E 32 St & Park Ave,40.7457121,-73.98194829,730,92378,89730,-2648,-3.6,5212,-5603,Established,Balanced
+258,DeKalb Ave & Vanderbilt Ave,40.68940747,-73.96885458,723,16771,14173,-2598,-3.6,-3702,1238,Established,Balanced
+3159,W 67 St & Broadway,40.77492513,-73.98266566,119,10103,9671,-432,-3.6,-818,694,Newer (<365 days),Balanced
+523,W 38 St & 8 Ave,40.75466591,-73.99138152,730,102203,99609,-2594,-3.6,-2814,3892,Established,Balanced
+3106,Driggs Ave & N Henry St,40.72325,-73.94308,135,3849,3363,-486,-3.6,-1020,394,Newer (<365 days),Balanced
+407,Henry St & Poplar St,40.700469,-73.991454,649,10139,7863,-2276,-3.5,-1060,205,Established,Balanced
+366,Clinton Ave & Myrtle Ave,40.693261,-73.968896,729,27153,24626,-2527,-3.5,-7221,3572,Established,Balanced
+423,W 54 St & 9 Ave,40.76584941,-73.98690506,708,31804,29492,-2312,-3.3,-1153,123,Established,Balanced
+442,W 27 St & 7 Ave,40.746647,-73.993915,711,88082,85751,-2331,-3.3,5160,-5983,Established,Balanced
+3176,W 64 St & West End Ave,40.77452835,-73.98753759,120,6433,6048,-385,-3.2,-1750,869,Newer (<365 days),Balanced
+474,5 Ave & E 29 St,40.7451677,-73.98683077,725,74024,71761,-2263,-3.1,10798,-9694,Established,Balanced
+293,Lafayette St & E 8 St,40.73028666,-73.9907647,730,182308,180150,-2158,-3.0,8820,-7298,Established,Balanced
+3135,E 75 St & 3 Ave,40.77112927,-73.95772297,114,7497,7151,-346,-3.0,-1664,1126,Newer (<365 days),Balanced
+3161,W 76 St & Columbus Ave,40.7801839724239,-73.97728532552718,86,3888,3638,-250,-2.9,-714,451,Newer (<365 days),Balanced
+3146,E 81 St & 3 Ave,40.77573034,-73.9567526,108,4159,3865,-294,-2.7,-1079,558,Newer (<365 days),Balanced
+526,E 33 St & 5 Ave,40.74765947,-73.98490707,707,64886,63000,-1886,-2.7,5053,-5014,Established,Balanced
+507,E 25 St & 2 Ave,40.73912601,-73.97973776,730,74005,72203,-1802,-2.5,-5064,1512,Established,Balanced
+321,Cadman Plaza E & Red Cross Pl,40.69991755,-73.98971773,631,16332,14885,-1447,-2.3,26,-1122,Established,Balanced
+399,Lafayette Ave & St James Pl,40.68851534,-73.9647628,716,10213,8654,-1559,-2.2,-1554,156,Established,Balanced
+3177,W 84 St & Broadway,40.7867947,-73.977112,109,10120,9879,-241,-2.2,-2636,1733,Newer (<365 days),Balanced
+3095,Graham Ave & Herbert St,40.71929301,-73.94500379,136,1319,1039,-280,-2.1,-322,67,Newer (<365 days),Balanced
+3099,Leonard St & Manhattan Ave,40.72152240339303,-73.94898265600203,65,544,408,-136,-2.1,-121,31,Newer (<365 days),Balanced
+485,W 37 St & 5 Ave,40.75038009,-73.98338988,725,52702,51253,-1449,-2.0,3350,-3239,Established,Balanced
+216,Columbia Heights & Cranberry St,40.70037867,-73.99548059,702,11660,10239,-1421,-2.0,-1017,-144,Established,Balanced
+3143,5 Ave & E 78 St,40.77682863439968,-73.96388769149779,86,8537,8369,-168,-2.0,-46,-92,Newer (<365 days),Balanced
+3226,W 82 St & Central Park West,40.78275,-73.97137,93,3764,3584,-180,-1.9,-982,428,Newer (<365 days),Balanced
+335,Washington Pl & Broadway,40.72903917,-73.99404649,728,65161,63871,-1290,-1.8,6489,-4350,Established,Balanced
+525,W 34 St & 11 Ave,40.75594159,-74.0021163,726,37694,36394,-1300,-1.8,-699,-400,Established,Balanced
+3141,1 Ave & E 68 St,40.76500525,-73.95818491,118,18121,17926,-195,-1.7,591,-853,Newer (<365 days),Balanced
+3162,W 78 St & Broadway,40.78339981,-73.98093133,84,3648,3508,-140,-1.7,-518,352,Newer (<365 days),Balanced
+2017,E 43 St & 2 Ave,40.75022392,-73.97121414,716,25605,24405,-1200,-1.7,3246,-3042,Established,Balanced
+379,W 31 St & 7 Ave,40.749156,-73.9916,730,109756,108484,-1272,-1.7,-7039,11352,Established,Balanced
+3111,Norman Ave & Leonard St,40.7258483,-73.95064893,140,2885,2646,-239,-1.7,-588,82,Newer (<365 days),Balanced
+195,Liberty St & Broadway,40.70905623,-74.01043382,718,55301,54181,-1120,-1.6,7791,-8448,Established,Balanced
+361,Allen St & Hester St,40.71605866,-73.99190759,730,63687,62514,-1173,-1.6,-5733,1777,Established,Balanced
+527,E 33 St & 2 Ave,40.744023,-73.976056,598,63009,62039,-970,-1.6,-2677,-1151,Established,Balanced
+349,Rivington St & Ridge St,40.71850211,-73.98329859,636,28267,27255,-1012,-1.6,-5917,2497,Established,Balanced
+244,Willoughby Ave & Hall St,40.69196035,-73.96536851,728,14700,13569,-1131,-1.6,-4354,1445,Established,Balanced
+538,W 49 St & 5 Ave,40.75795248,-73.97787642,423,24391,23710,-681,-1.6,4198,-3712,Established,Balanced
+504,1 Ave & E 15 St,40.73221853,-73.98165557,730,101256,100059,-1197,-1.6,-9751,8194,Established,Balanced
+3089,Leonard St & Meeker Ave,40.717318403855785,-73.94820213317871,58,363,275,-88,-1.5,-37,18,Newer (<365 days),Balanced
+3180,Brooklyn Bridge Park - Pier 2,40.69878,-73.99712,150,3301,3070,-231,-1.5,35,-22,Newer (<365 days),Balanced
+3050,Putnam Ave & Throop Ave,40.6851532,-73.94111,128,1371,1182,-189,-1.5,-370,54,Newer (<365 days),Balanced
+364,Lafayette Ave & Classon Ave,40.68900443,-73.96023854,717,10244,9165,-1079,-1.5,-1385,157,Established,Balanced
+241,DeKalb Ave & S Portland Ave,40.68981035,-73.97493121,724,14637,13528,-1109,-1.5,-2598,816,Established,Balanced
+239,Willoughby St & Fleet St,40.69196566,-73.9813018,729,17859,16733,-1126,-1.5,5257,-4532,Established,Balanced
+3118,McGuinness Blvd & Eagle St,40.73555,-73.95284,140,3038,2827,-211,-1.5,-562,189,Newer (<365 days),Balanced
+3156,E 72 St & York Ave,40.76663814,-73.95348296,115,11328,11152,-176,-1.5,-413,-175,Newer (<365 days),Balanced
+233,Cadman Plaza W & Pierrepont St,40.69475701363877,-73.99052739143372,700,21767,20754,-1013,-1.4,2498,-2120,Established,Balanced
+420,Clermont Ave & Lafayette Ave,40.68764484,-73.96968902,726,11444,10444,-1000,-1.4,-2643,1196,Established,Balanced
+522,E 51 St & Lexington Ave,40.75714758,-73.97207836,729,41693,40665,-1028,-1.4,13653,-12227,Established,Balanced
+444,Broadway & W 24 St,40.7423543,-73.98915076,725,119277,118276,-1001,-1.4,15468,-13242,Established,Balanced
+3049,Cambridge Pl & Gates Ave,40.68488,-73.96304,125,1220,1057,-163,-1.3,-291,81,Newer (<365 days),Balanced
+245,Myrtle Ave & St Edwards St,40.69327018,-73.97703874,717,7607,6649,-958,-1.3,-1437,392,Established,Balanced
+499,Broadway & W 60 St,40.76915505,-73.98191841,728,118948,118008,-940,-1.3,-1533,656,Established,Balanced
+3091,Frost St & Meeker St,40.71764,-73.94882,135,1727,1552,-175,-1.3,-102,64,Newer (<365 days),Balanced
+437,Macon St & Nostrand Ave,40.68098339,-73.95004798,644,9187,8337,-850,-1.3,-295,-375,Established,Balanced
+3105,N 15 St & Wythe Ave,40.724055,-73.955736,127,1038,891,-147,-1.2,57,-13,Newer (<365 days),Balanced
+2022,E 59 St & Sutton Pl,40.75849116,-73.95920622,716,32513,31619,-894,-1.2,-3148,904,Established,Balanced
+3102,Driggs Ave & Lorimer St,40.72179134,-73.9504154,137,3334,3169,-165,-1.2,-323,206,Newer (<365 days),Balanced
+3061,Throop Ave & Myrtle Ave,40.69622937,-73.94371094,129,554,404,-150,-1.2,-116,18,Newer (<365 days),Balanced
+518,E 39 St & 2 Ave,40.74780373,-73.9734419,730,86348,85494,-854,-1.2,-213,-1025,Established,Balanced
+419,Carlton Ave & Park Ave,40.69580705,-73.97355569,711,7579,6761,-818,-1.2,-2618,801,Established,Balanced
+3094,Graham Ave & Withers St,40.7169811,-73.94485918,135,1851,1709,-142,-1.1,-192,121,Newer (<365 days),Balanced
+416,Cumberland St & Lafayette Ave,40.68753406,-73.97265183,729,16092,15284,-808,-1.1,-2373,1338,Established,Balanced
+327,Vesey Pl & River Terrace,40.7153379,-74.01658354,730,118331,117507,-824,-1.1,7595,-5131,Established,Balanced
+3073,Division Ave & Hooper St,40.70691254,-73.95441667,135,1537,1404,-133,-1.0,-156,52,Newer (<365 days),Balanced
+3098,Leonard St & Bayard St,40.71928,-73.94861,136,2001,1863,-138,-1.0,-68,61,Newer (<365 days),Balanced
+3058,Lewis Ave & Kosciuszko St,40.69237074,-73.93705428,127,1093,966,-127,-1.0,-244,22,Newer (<365 days),Balanced
+406,Hicks St & Montague St,40.69512845,-73.99595065,702,22516,21811,-705,-1.0,-4504,2098,Established,Balanced
+3130,21 St & Queens Plaza North,40.75325964,-73.94335788,38,346,308,-38,-1.0,-25,18,Newer (<365 days),Balanced
+479,9 Ave & W 45 St,40.76019252,-73.9912551,729,75668,74963,-705,-1.0,-3755,2132,Established,Balanced
+376,John St & William St,40.70862144,-74.00722156,698,35226,34533,-693,-1.0,4374,-4969,Established,Balanced
+3110,Meserole Ave & Manhattan Ave,40.72708584,-73.95299117,140,3857,3716,-141,-1.0,-486,239,Newer (<365 days),Balanced
+3097,N Henry St & Richardson St,40.71921585,-73.9424469,135,3024,2893,-131,-1.0,-779,167,Newer (<365 days),Balanced
+290,2 Ave & E 58 St,40.76020258,-73.96478473,677,42847,42190,-657,-1.0,-1058,530,Established,Balanced
+3053,Marcy Ave & Lafayette Ave,40.6900815,-73.947915,119,519,397,-122,-1.0,-51,18,Newer (<365 days),Balanced
+540,Lexington Ave & E 29 St,40.74311555376486,-73.98215353488922,536,59707,59240,-467,-0.9,993,-1604,Established,Balanced
+3075,Division Ave & Marcy Ave,40.70708701,-73.95796783,133,948,828,-120,-0.9,54,-66,Newer (<365 days),Balanced
+3077,Stagg St & Union Ave,40.70877084,-73.95095259,112,2160,2057,-103,-0.9,-499,107,Newer (<365 days),Balanced
+3052,Lewis Ave & Madison St,40.686312,-73.935775,128,1625,1508,-117,-0.9,-531,196,Newer (<365 days),Balanced
+360,William St & Pine St,40.70717936,-74.00887308,730,35744,35117,-627,-0.9,8058,-7684,Established,Balanced
+3096,Union Ave & N 12 St,40.71924,-73.95242,59,845,792,-53,-0.9,-73,69,Newer (<365 days),Balanced
+436,Hancock St & Bedford Ave,40.68216564,-73.95399026,695,6613,6015,-598,-0.9,-1207,331,Established,Balanced
+475,E 16 St & Irving Pl,40.73524276,-73.98758561,727,60518,59890,-628,-0.9,-251,-1968,Established,Balanced
+341,Stanton St & Mangin St,40.71782143,-73.97628939,729,25694,25026,-668,-0.9,-1687,1468,Established,Balanced
+516,E 47 St & 1 Ave,40.75206862,-73.96784384,695,25183,24557,-626,-0.9,3350,-4044,Established,Balanced
+3076,Scholes St & Manhattan Ave,40.70870368,-73.9448625,129,1651,1529,-122,-0.9,-369,117,Newer (<365 days),Balanced
+3044,Albany Ave & Fulton St,40.6800105,-73.938475,125,511,400,-111,-0.9,-27,-22,Newer (<365 days),Balanced
+3234,E 40 St & Madison Ave,40.75159368451112,-73.98043155670166,72,6838,6780,-58,-0.8,929,-1138,Newer (<365 days),Balanced
+3080,S 4 St & Rodney St,40.70934,-73.95608,100,1059,983,-76,-0.8,-40,6,Newer (<365 days),Balanced
+433,E 13 St & Avenue A,40.72955361,-73.98057249,730,70019,69415,-604,-0.8,-12841,8143,Established,Balanced
+289,Monroe St & Classon Ave,40.6845683,-73.95881081,709,4985,4397,-588,-0.8,-1376,439,Established,Balanced
+3085,Roebling St & N 4 St,40.71469,-73.95739,100,1955,1873,-82,-0.8,-71,-35,Newer (<365 days),Balanced
+3147,E 85 St & 3 Ave,40.77801203,-73.95407149,109,8977,8892,-85,-0.8,-872,785,Newer (<365 days),Balanced
+3048,Putnam Ave & Nostrand Ave,40.68402,-73.94977,128,849,742,-107,-0.8,-127,37,Newer (<365 days),Balanced
+285,Broadway & E 14 St,40.73454567,-73.99074142,730,139296,138726,-570,-0.8,6943,-4707,Established,Balanced
+3055,Greene Ave & Nostrand Ave,40.6883337,-73.950916,121,911,810,-101,-0.8,-102,44,Newer (<365 days),Balanced
+445,E 10 St & Avenue A,40.72740794,-73.98142006,728,87873,87257,-616,-0.8,-18070,10111,Established,Balanced
+3087,Metropolitan Ave & Meeker Ave,40.71413311,-73.95234386,136,4068,3958,-110,-0.8,87,51,Newer (<365 days),Balanced
+3229,Marcy Ave & MacDonough St,40.68061768455451,-73.94624948501587,86,521,460,-61,-0.7,-79,18,Newer (<365 days),Balanced
+421,Clermont Ave & Park Ave,40.69573398,-73.97129668,724,8808,8266,-542,-0.7,-2853,1094,Established,Balanced
+3083,Bushwick Ave & Powers St,40.71247661,-73.94100005,135,2282,2188,-94,-0.7,-164,50,Newer (<365 days),Balanced
+314,Cadman Plaza West & Montague St,40.69383,-73.990539,722,22591,22111,-480,-0.7,1424,-1265,Established,Balanced
+320,Church St & Leonard St,40.71743998,-74.00583475,680,34283,33778,-505,-0.7,2270,-1594,Established,Balanced
+278,Concord St & Bridge St,40.69766564,-73.98476437,680,9772,9308,-464,-0.7,-1666,572,Established,Balanced
+3060,Willoughby Ave & Tompkins Ave,40.69425403,-73.94626915,133,1251,1161,-90,-0.7,-330,101,Newer (<365 days),Balanced
+330,Reade St & Broadway,40.71450451,-74.00562789,727,39041,38503,-538,-0.7,6497,-5497,Established,Balanced
+369,Washington Pl & 6 Ave,40.73224119,-74.00026394,729,47578,47101,-477,-0.7,-3724,3429,Established,Balanced
+446,W 24 St & 7 Ave,40.74487634,-73.99529885,730,98190,97655,-535,-0.7,652,-1054,Established,Balanced
+266,Avenue D & E 8 St,40.72368361,-73.97574813,723,18984,18456,-528,-0.7,-6283,2841,Established,Balanced
+350,Clinton St & Grand St,40.71559509,-73.9870295,730,38509,37988,-521,-0.7,-7082,4326,Established,Balanced
+3241,Monroe St & Tompkins Ave,40.686203,-73.944694,6,13,9,-4,-0.7,-5,0,Newer (<365 days),Balanced
+3101,N 12 St & Bedford Ave,40.72079821,-73.95484712,137,4070,3993,-77,-0.6,-59,93,Newer (<365 days),Balanced
+120,Lexington Ave & Classon Ave,40.68676793,-73.95928168,716,8888,8448,-440,-0.6,-2582,911,Established,Balanced
+3116,Huron St & Franklin St,40.73266,-73.95826,85,1403,1348,-55,-0.6,-306,106,Newer (<365 days),Balanced
+3084,Devoe St & Leonard St,40.71348658,-73.94792458,131,1983,1902,-81,-0.6,32,7,Newer (<365 days),Balanced
+3121,Jackson Ave & 46 Rd,40.74524768,-73.94733276,142,1774,1684,-90,-0.6,7,-31,Newer (<365 days),Balanced
+3108,Nassau Ave & Russell St,40.72557,-73.94434,141,5147,5068,-79,-0.6,-1283,443,Newer (<365 days),Balanced
+275,Washington Ave & Greene Ave,40.68650065,-73.96563307,722,9496,9039,-457,-0.6,-2276,1198,Established,Balanced
+3054,Greene Ave & Throop Ave,40.6894932,-73.942061,128,1200,1128,-72,-0.6,-406,186,Newer (<365 days),Balanced
+380,W 4 St & 7 Ave S,40.73401143,-74.00293877,730,89302,88857,-445,-0.6,-6324,7323,Established,Balanced
+3082,Hope St & Union Ave,40.71167351,-73.95141312,100,1887,1827,-60,-0.6,-109,103,Newer (<365 days),Balanced
+3002,South End Ave & Liberty St,40.711512,-74.015756,664,94487,94092,-395,-0.6,-1286,-571,Established,Balanced
+325,E 19 St & 3 Ave,40.73624527,-73.98473765,709,54078,53660,-418,-0.6,-4585,3223,Established,Balanced
+3057,Kosciuszko St & Tompkins Ave,40.69128258,-73.9452416,128,1007,936,-71,-0.6,-298,110,Newer (<365 days),Balanced
+151,Cleveland Pl & Spring St,40.722103786686034,-73.99724900722502,730,130187,129847,-340,-0.5,4224,-4175,Established,Balanced
+3171,Amsterdam Ave & W 82 St,40.78524672,-73.97667321,79,3698,3661,-37,-0.5,-826,434,Newer (<365 days),Balanced
+512,W 29 St & 9 Ave,40.7500727,-73.99839279,730,54841,54469,-372,-0.5,-2917,2440,Established,Balanced
+276,Duane St & Greenwich St,40.71748752,-74.0104554,719,34653,34260,-393,-0.5,1448,-1996,Established,Balanced
+119,Park Ave & St Edwards St,40.69608941,-73.97803415,706,3659,3325,-334,-0.5,-848,798,Established,Balanced
+528,2 Ave & E 31 St,40.74290902,-73.97706058,730,86323,85975,-348,-0.5,-3611,1573,Established,Balanced
+3237,21 St & 41 Ave,40.75383343437622,-73.94267678260803,58,256,225,-31,-0.5,-22,2,Newer (<365 days),Balanced
+3238,E 80 St & 2 Ave,40.77391390238118,-73.9543953537941,27,472,458,-14,-0.5,-126,91,Newer (<365 days),Balanced
+3062,Myrtle Ave & Marcy Ave,40.69539817,-73.94954908,133,1208,1152,-56,-0.4,187,-127,Newer (<365 days),Balanced
+3168,Central Park West & W 85 St,40.78472675,-73.96961715,85,8797,8760,-37,-0.4,-1083,684,Newer (<365 days),Balanced
+422,W 59 St & 10 Ave,40.770513,-73.988038,730,42396,42109,-287,-0.4,-5793,3144,Established,Balanced
+322,Clinton St & Tillary St,40.696192,-73.991218,648,15826,15570,-256,-0.4,-1327,429,Established,Balanced
+3056,Kosciuszko St & Nostrand Ave,40.69072549,-73.95133465,128,865,817,-48,-0.4,-32,-30,Newer (<365 days),Balanced
+263,Elizabeth St & Hester St,40.71729,-73.996375,726,58859,58537,-322,-0.4,-643,386,Established,Balanced
+3154,E 77 St & 3 Ave,40.77314236,-73.95856158,58,2057,2031,-26,-0.4,-112,71,Newer (<365 days),Balanced
+3151,E 81 St & York Ave,40.7728384,-73.94989233,58,1893,1871,-22,-0.4,-626,249,Newer (<365 days),Balanced
+3043,Lewis Ave & Decatur St,40.6814598,-73.934903,124,672,617,-55,-0.4,-35,24,Newer (<365 days),Balanced
+174,E 25 St & 1 Ave,40.7381765,-73.97738662,730,52536,52266,-270,-0.4,-5377,1559,Established,Balanced
+316,Fulton St & William St,40.70955958,-74.00653609,726,40581,40318,-263,-0.4,3680,-3845,Established,Balanced
+332,Cherry St,40.71219906,-73.97948148,727,25744,25465,-279,-0.4,-5114,4160,Established,Balanced
+339,Avenue D & E 12 St,40.72580614,-73.97422494,711,11704,11408,-296,-0.4,-3756,1871,Established,Balanced
+3081,Graham Ave & Grand St,40.711863,-73.944024,135,1976,1920,-56,-0.4,-187,69,Newer (<365 days),Balanced
+365,Fulton St & Grand Ave,40.68223166,-73.9614583,724,12731,12455,-276,-0.4,-2465,927,Established,Balanced
+3144,E 81 St & Park Ave,40.77677702,-73.9590097,108,4257,4216,-41,-0.4,-608,237,Newer (<365 days),Balanced
+3046,Marcus Garvey Blvd & Macon St,40.682601,-73.938037,125,766,726,-40,-0.3,-176,6,Newer (<365 days),Balanced
+357,E 11 St & Broadway,40.73261787,-73.99158043,712,48193,47986,-207,-0.3,2087,-1616,Established,Balanced
+489,10 Ave & W 28 St,40.75066386,-74.00176802,728,69027,68781,-246,-0.3,-287,-3280,Established,Balanced
+2009,Catherine St & Monroe St,40.71117444,-73.99682619,726,27774,27588,-186,-0.3,-6056,3127,Established,Balanced
+400,Pitt St & Stanton St,40.71926081,-73.98178024,722,14210,14000,-210,-0.3,-3448,1671,Established,Balanced
+3157,East End Ave & E 86 St,40.77518615,-73.94446054,85,1785,1762,-23,-0.3,-417,292,Newer (<365 days),Balanced
+331,Pike St & Monroe St,40.71173107,-73.99193043,729,22076,21881,-195,-0.3,-5424,2058,Established,Balanced
+340,Madison St & Clinton St,40.71269042,-73.98776323,727,27246,27042,-204,-0.3,-5263,2351,Established,Balanced
+3126,44 Dr & Jackson Ave,40.74718234,-73.9432635,142,3321,3275,-46,-0.3,401,-425,Newer (<365 days),Balanced
+486,Broadway & W 29 St,40.7462009,-73.98855723,729,73540,73317,-223,-0.3,3671,-3812,Established,Balanced
+397,Fulton St & Clermont Ave,40.68415748,-73.96922273,722,10982,10751,-231,-0.3,-2136,939,Established,Balanced
+3070,McKibbin St & Manhattan Ave,40.70510918,-73.94407279,133,858,820,-38,-0.3,-229,120,Newer (<365 days),Balanced
+3166,Riverside Dr & W 72 St,40.78057799010334,-73.98562431335449,102,4813,4794,-19,-0.2,-1060,723,Newer (<365 days),Balanced
+385,E 55 St & 2 Ave,40.75797322,-73.96603308,730,33739,33572,-167,-0.2,-508,664,Established,Balanced
+3047,Halsey St & Tompkins Ave,40.6823687,-73.944118,127,1232,1203,-29,-0.2,-297,107,Newer (<365 days),Balanced
+513,W 56 St & 10 Ave,40.768254,-73.988639,708,40900,40761,-139,-0.2,-3033,849,Established,Balanced
+476,E 31 St & 3 Ave,40.74394314,-73.97966069,730,70662,70529,-133,-0.2,-2665,1254,Established,Balanced
+295,Pike St & E Broadway,40.71406667,-73.99293911,730,39175,39048,-127,-0.2,-3573,1219,Established,Balanced
+387,Centre St & Chambers St,40.71273266,-74.0046073,730,98523,98364,-159,-0.2,4850,-4950,Established,Balanced
+302,Avenue D & E 3 St,40.72082834,-73.97793172,729,26767,26640,-127,-0.2,-6383,3094,Established,Balanced
+443,Bedford Ave & S 9 St,40.70853074,-73.96408963,678,5006,4839,-167,-0.2,-648,64,Established,Balanced
+3107,Bedford Ave & Nassau Ave,40.72311651,-73.95212324,137,6194,6164,-30,-0.2,-571,265,Newer (<365 days),Balanced
+3233,E 48 St & 5 Ave,40.75724567911726,-73.978059142828,81,7717,7705,-12,-0.1,1547,-1303,Newer (<365 days),Balanced
+3182,Yankee Ferry Terminal,40.686931,-74.016966,52,2128,2124,-4,-0.1,4,-2,Newer (<365 days),Balanced
+367,E 53 St & Lexington Ave,40.75828065,-73.97069431,726,36099,36029,-70,-0.1,9291,-7802,Established,Balanced
+3132,E 59 St & Madison Ave,40.76350532,-73.97109243,120,6880,6864,-16,-0.1,1804,-1693,Newer (<365 days),Balanced
+82,St James Pl & Pearl St,40.71117416,-74.00016545,728,19588,19483,-105,-0.1,-2225,847,Established,Balanced
+386,Centre St & Worth St,40.71494807,-74.00234482,729,41608,41535,-73,-0.1,8959,-6793,Established,Balanced
+395,Bond St & Schermerhorn St,40.68807003,-73.98410637,699,17521,17450,-71,-0.1,-2710,1177,Established,Balanced
+3109,Banker St & Meserole Ave,40.72606,-73.95621,140,2697,2677,-20,-0.1,-358,181,Newer (<365 days),Balanced
+143,Clinton St & Joralemon St,40.69239502,-73.99337909,725,18183,18195,12,0.0,-2995,976,Established,Balanced
+3103,N 11 St & Wythe Ave,40.72153267,-73.95782357,137,3908,3906,-2,0.0,345,-114,Newer (<365 days),Balanced
+270,Adelphi St & Myrtle Ave,40.69308257,-73.97178913,729,21427,21432,5,0.0,-5963,4657,Established,Balanced
+307,Canal St & Rutgers St,40.71427487,-73.98990025,730,65040,65040,0,-0.0,-6329,3334,Established,Balanced
+402,Broadway & E 22 St,40.7403432,-73.98955109,730,128181,128170,-11,0.0,11038,-9549,Established,Balanced
+72,W 52 St & 11 Ave,40.76727216,-73.99392888,727,52197,52170,-27,0.0,-4690,919,Established,Balanced
+342,Columbia St & Rivington St,40.71739973,-73.98016555,730,26923,26893,-30,-0.0,-5948,4009,Established,Balanced
+390,Duffield St & Willoughby St,40.69221589,-73.9842844,722,14161,14195,34,0.0,4794,-4316,Established,Balanced
+409,DeKalb Ave & Skillman St,40.6906495,-73.95643107,712,7545,7536,-9,0.0,-1390,584,Established,Balanced
+3078,Broadway & Roebling St,40.70925562,-73.95982218,56,806,807,1,0.0,172,-58,Newer (<365 days),Balanced
+282,Kent Ave & S 11 St,40.70827295,-73.96834101,663,13791,13820,29,-0.0,-1426,694,Established,Balanced
+3041,Kingston Ave & Herkimer St,40.67890679,-73.94142771,126,705,701,-4,0.0,-69,38,Newer (<365 days),Balanced
+3128,21 St & 43 Ave,40.75052534,-73.94594845,119,572,569,-3,-0.0,64,-19,Newer (<365 days),Balanced
+428,E 3 St & 1 Ave,40.72467721,-73.98783413,730,70077,70125,48,0.1,-7171,6446,Established,Balanced
+546,E 30 St & Park Ave S,40.74444921,-73.98303529,730,75328,75405,77,0.1,5338,-5572,Established,Balanced
+291,Madison St & Montgomery St,40.713126,-73.984844,692,24793,24876,83,0.1,-4983,3579,Established,Balanced
+252,MacDougal St & Washington Sq,40.73226398,-73.99852205,728,54907,54999,92,0.1,-1981,1907,Established,Balanced
+354,Emerson Pl & Myrtle Ave,40.69363137,-73.96223558,723,11537,11614,77,0.1,-2426,1504,Established,Balanced
+3063,Nostrand Ave & Myrtle Ave,40.69527008,-73.95238108,129,667,682,15,0.1,-56,25,Newer (<365 days),Balanced
+481,S 3 St & Bedford Ave,40.71260486,-73.96264403,685,16407,16482,75,0.1,-2634,1079,Established,Balanced
+249,Harrison St & Hudson St,40.71870987,-74.0090009,697,28336,28404,68,0.1,5794,-5224,Established,Balanced
+3067,Broadway & Whipple St,40.7016657,-73.9437303,133,1289,1298,9,0.1,-99,45,Newer (<365 days),Balanced
+261,Johnson St & Gold St,40.69474881,-73.98362464,724,19482,19587,105,0.1,-2548,1129,Established,Balanced
+146,Hudson St & Reade St,40.71625008,-74.0091059,729,41868,41940,72,0.1,623,184,Established,Balanced
+144,Nassau St & Navy St,40.69839895,-73.98068914,707,8860,8944,84,0.1,-246,177,Established,Balanced
+3235,E 41 St & Madison Ave,40.752165280621966,-73.97992193698882,77,5788,5797,9,0.1,320,-481,Newer (<365 days),Balanced
+3122,48 Ave & 5 St,40.74436328706688,-73.9558732509613,86,848,867,19,0.2,-90,95,Newer (<365 days),Balanced
+3232,Bond St & Fulton St,40.68962188790333,-73.98304268717766,93,1013,1029,16,0.2,47,-50,Newer (<365 days),Balanced
+2008,Little West St & 1 Pl,40.70569254,-74.01677685,730,50894,51015,121,0.2,-655,-675,Established,Balanced
+2005,Railroad Ave & Kay Ave,40.70531194,-73.97100056,590,1454,1570,116,0.2,706,-655,Established,Balanced
+3155,Lexington Ave & E 63 St,40.76440023,-73.96648977,79,3491,3504,13,0.2,138,-45,Newer (<365 days),Balanced
+236,St Marks Pl & 2 Ave,40.7284186,-73.98713956,729,82305,82435,130,0.2,-9283,6574,Established,Balanced
+248,Laight St & Hudson St,40.72185379,-74.00771779,725,16748,16904,156,0.2,4078,-4056,Established,Balanced
+3150,E 85 St & York Ave,40.77536905,-73.94803392,109,6709,6736,27,0.2,-2294,1203,Newer (<365 days),Balanced
+254,W 11 St & 6 Ave,40.73532427,-73.99800419,597,32854,32963,109,0.2,-2277,2147,Established,Balanced
+545,E 23 St & 1 Ave,40.736502,-73.97809472,729,75134,75261,127,0.2,-5602,3628,Established,Balanced
+431,Hanover Pl & Livingston St,40.68864636,-73.98263429,594,4247,4385,138,0.2,318,-221,Established,Balanced
+508,W 46 St & 11 Ave,40.76341379,-73.99667444,686,45150,45271,121,0.2,-2504,217,Established,Balanced
+212,W 16 St & The High Line,40.74334935,-74.00681753,655,59236,59377,141,0.2,4368,-3043,Established,Balanced
+3117,Franklin St & Dupont St,40.73564,-73.95866,142,2671,2702,31,0.2,-463,180,Newer (<365 days),Balanced
+3153,E 71 St & 2 Ave,40.768175467422445,-73.95910263061523,21,426,433,7,0.3,-24,17,Newer (<365 days),Balanced
+3079,Leonard St & Grand St,40.71103537,-73.94714303,135,2553,2597,44,0.3,-317,182,Newer (<365 days),Balanced
+412,Forsyth St & Canal St,40.7158155,-73.99422366,728,43789,43991,202,0.3,-639,458,Established,Balanced
+334,W 20 St & 7 Ave,40.74238787,-73.99726235,730,76363,76617,254,0.3,-2066,1947,Established,Balanced
+3113,Greenpoint Ave & Manhattan Ave,40.73026,-73.95394,141,4148,4193,45,0.3,-215,138,Newer (<365 days),Balanced
+3092,Berry St & N 8 St,40.7190095,-73.95852515,136,5475,5509,34,0.3,582,-161,Newer (<365 days),Balanced
+312,Allen St & E Houston St,40.722055,-73.989111,730,73244,73427,183,0.3,-6122,5541,Established,Balanced
+396,Lefferts Pl & Franklin Ave,40.68034242,-73.95576894,721,11460,11698,238,0.3,-2006,977,Established,Balanced
+343,Clinton Ave & Flushing Ave,40.69794,-73.96986848,713,9419,9659,240,0.3,470,-517,Established,Balanced
+3065,Union Ave & Wallabout St,40.70029511,-73.95032283,131,855,893,38,0.3,118,-17,Newer (<365 days),Balanced
+228,E 48 St & 3 Ave,40.7546011026,-73.971878855,725,45034,45237,203,0.3,15996,-13910,Established,Balanced
+389,Broadway & Berry St,40.71044554,-73.96525063,716,16605,16830,225,0.3,-2115,1018,Established,Balanced
+502,Henry St & Grand St,40.714215,-73.981346,676,39738,39950,212,0.3,-8338,6234,Established,Balanced
+238,Bank St & Washington St,40.7361967,-74.00859207,730,45094,45284,190,0.3,-6289,4743,Established,Balanced
+3088,Union Ave & Jackson St,40.7160751,-73.952029,136,2174,2208,34,0.3,-134,153,Newer (<365 days),Balanced
+224,Spruce St & Nassau St,40.71146364,-74.00552427,729,36756,37009,253,0.3,1525,-1715,Established,Balanced
+3173,Riverside Blvd & W 67 St,40.777507027547976,-73.98888587951657,84,4347,4374,27,0.3,-1166,727,Newer (<365 days),Balanced
+384,Fulton St & Waverly Ave,40.68317813,-73.9659641,568,12889,13144,255,0.4,-2187,1064,Established,Balanced
+411,E 6 St & Avenue D,40.72228087,-73.97668709,730,26823,27147,324,0.4,-5090,3266,Established,Balanced
+223,W 13 St & 7 Ave,40.73781509,-73.99994661,730,63777,64059,282,0.4,-3520,2997,Established,Balanced
+3123,31 St & Thomson Ave,40.74469738,-73.93540375,128,869,919,50,0.4,127,-117,Newer (<365 days),Balanced
+393,E 5 St & Avenue C,40.72299208,-73.97995466,730,33759,34046,287,0.4,-9493,5321,Established,Balanced
+3137,5 Ave & E 73 St,40.77282817,-73.96685276,94,8122,8157,35,0.4,-62,-71,Newer (<365 days),Balanced
+372,Franklin Ave & Myrtle Ave,40.694528,-73.958089,702,5622,5938,316,0.5,-858,442,Established,Balanced
+401,Allen St & Rivington St,40.72019576,-73.98997825,728,73026,73367,341,0.5,-8133,5398,Established,Balanced
+460,S 4 St & Wythe Ave,40.71285887,-73.96590294,725,18077,18467,390,0.5,-2777,1571,Established,Balanced
+2006,Central Park S & 6 Ave,40.76590936,-73.97634151,724,89340,89705,365,0.5,3037,-5467,Established,Balanced
+3114,India St & East River,40.73165141,-73.96161892,128,1192,1256,64,0.5,487,-308,Newer (<365 days),Balanced
+3072,Leonard St & Boerum St,40.70583339,-73.94644578,133,1075,1138,63,0.5,-280,185,Newer (<365 days),Balanced
+3127,9 St & 44 Rd,40.74966,-73.9521,140,1111,1178,67,0.5,135,-83,Newer (<365 days),Balanced
+3066,Tompkins Ave & Hopkins St,40.69957608,-73.94708417,132,987,1049,62,0.5,265,-189,Newer (<365 days),Balanced
+373,Willoughby Ave & Walworth St,40.69331716,-73.95381995,719,9786,10140,354,0.5,-1732,1005,Established,Balanced
+232,Cadman Plaza E & Tillary St,40.69597683,-73.99014892,704,17007,17385,378,0.5,-101,-471,Established,Balanced
+344,Monroe St & Bedford Ave,40.6851443,-73.95380904,725,10023,10420,397,0.5,-1593,910,Established,Balanced
+3179,Park Ave & Marcus Garvey Blvd,40.698617,-73.941342,126,515,575,60,0.5,29,10,Newer (<365 days),Balanced
+3125,45 Rd & 11 St,40.74708586,-73.94977234,143,2440,2509,69,0.5,191,-59,Newer (<365 days),Balanced
+301,E 2 St & Avenue B,40.72217444,-73.98368779,730,63131,63495,364,0.5,-7886,7611,Established,Balanced
+473,Rivington St & Chrystie St,40.72110063,-73.9919254,728,42169,42511,342,0.5,-4801,1921,Established,Balanced
+2001,7 Ave & Farragut St,40.69892054,-73.97332996,595,3087,3398,311,0.5,973,-721,Established,Balanced
+3069,Lorimer St & Broadway,40.70411791,-73.94818595,133,1147,1210,63,0.5,-15,28,Newer (<365 days),Balanced
+394,E 9 St & Avenue C,40.72521311,-73.97768752,696,50486,50861,375,0.5,-8569,7023,Established,Balanced
+3112,Milton St & Franklin St,40.72906,-73.95779,141,5305,5382,77,0.5,111,-173,Newer (<365 days),Balanced
+3042,Fulton St & Utica Ave,40.6794268,-73.9298911,126,1199,1264,65,0.5,227,-102,Newer (<365 days),Balanced
+3181,Soissons Landing,40.692609,-74.016398,56,2325,2359,34,0.6,-2,139,Newer (<365 days),Balanced
+160,E 37 St & Lexington Ave,40.748238,-73.978311,730,40029,40494,465,0.6,-376,-41,Established,Balanced
+495,W 47 St & 10 Ave,40.76269882,-73.99301222,729,52044,52514,470,0.6,-5286,3689,Established,Balanced
+353,S Portland Ave & Hanson Pl,40.68539567,-73.97431458,726,11236,11674,438,0.6,-384,108,Established,Balanced
+319,Park Pl & Church St,40.71336124,-74.00937622,413,27015,27245,230,0.6,1854,-2241,Established,Balanced
+298,3 Ave & Schermerhorn St,40.68683208,-73.9796772,718,8342,8789,447,0.6,-1150,822,Established,Balanced
+3115,India St & Manhattan Ave,40.73232194,-73.9550858,140,3724,3805,81,0.6,-411,296,Newer (<365 days),Balanced
+3223,E 55 St & 3 Ave,40.75899655960512,-73.96865397691727,128,8657,8746,89,0.7,2774,-2620,Newer (<365 days),Balanced
+3124,46 Ave & 5 St,40.74731,-73.95451,142,5165,5264,99,0.7,-1213,886,Newer (<365 days),Balanced
+441,E 52 St & 2 Ave,40.756014,-73.967416,701,35691,36160,469,0.7,6,-397,Established,Balanced
+464,E 56 St & 3 Ave,40.75934501,-73.96759673,584,25187,25577,390,0.7,3732,-4952,Established,Balanced
+326,E 11 St & 1 Ave,40.72953837,-73.98426726,730,66154,66649,495,0.7,-6748,5918,Established,Balanced
+294,Washington Square E,40.73049393,-73.9957214,632,65069,65505,436,0.7,2931,-635,Established,Balanced
+253,W 13 St & 5 Ave,40.73543934,-73.99453948,329,27918,28161,243,0.7,1431,-884,Newer (<365 days),Balanced
+3059,Pulaski St & Marcus Garvey Blvd,40.6933982,-73.939877,125,520,604,84,0.7,47,-7,Newer (<365 days),Balanced
+3119,Vernon Blvd & 50 Ave,40.74232744,-73.95411749,141,6428,6531,103,0.7,1374,-797,Newer (<365 days),Balanced
+3221,47 Ave & 31 St,40.743,-73.93561,107,627,706,79,0.7,195,-138,Newer (<365 days),Balanced
+297,E 15 St & 3 Ave,40.734232,-73.986923,700,70755,71230,475,0.7,-2586,1459,Established,Balanced
+3138,E 77 St & Park Ave,40.774405455003,-73.96175265312193,20,274,287,13,0.7,-3,10,Newer (<365 days),Balanced
+3129,Queens Plaza North & Crescent St,40.75110165,-73.94073717,142,5686,5801,115,0.8,-442,214,Newer (<365 days),Balanced
+494,W 26 St & 8 Ave,40.74734825,-73.99723551,730,83626,84226,600,0.8,-3002,2847,Established,Balanced
+336,Sullivan St & Washington Sq,40.73047747,-73.99906065,725,66833,67405,572,0.8,-757,1166,Established,Balanced
+524,W 43 St & 6 Ave,40.75527307,-73.98316936,478,29063,29442,379,0.8,7844,-6116,Established,Balanced
+3071,Boerum St & Broadway,40.70538077,-73.94976519,134,1464,1575,111,0.8,-106,42,Newer (<365 days),Balanced
+264,Maiden Ln & Pearl St,40.70706456,-74.00731853,729,38235,38902,667,0.9,6047,-6492,Established,Balanced
+408,Market St & Cherry St,40.71076228,-73.99400398,728,21769,22406,637,0.9,-4357,3800,Established,Balanced
+454,E 51 St & 1 Ave,40.75455731,-73.96592976,729,28992,29643,651,0.9,-1532,1879,Established,Balanced
+2003,1 Ave & E 18 St,40.73381219196632,-73.98054420948029,551,49474,50026,552,1.0,-6855,5976,Established,Balanced
+308,St James Pl & Oliver St,40.71307916,-73.99851193,729,31848,32596,748,1.0,-3357,1626,Established,Balanced
+296,Division St & Bowery,40.71413089,-73.9970468,730,40893,41600,707,1.0,-1089,1335,Established,Balanced
+247,Perry St & Bleecker St,40.73535398,-74.00483091,728,46347,47059,712,1.0,-4465,3197,Established,Balanced
+328,Watts St & Greenwich St,40.72405549,-74.00965965,729,50568,51324,756,1.0,4072,-3894,Established,Balanced
+280,E 10 St & 5 Ave,40.73331967,-73.99510132,729,59072,59836,764,1.0,-1291,1634,Established,Balanced
+2023,E 55 St & Lexington Ave,40.75968085,-73.97031366,724,28682,29383,701,1.0,9395,-7363,Established,Balanced
+3068,Humboldt St & Varet St,40.7031724,-73.940636,133,1398,1545,147,1.1,-134,20,Newer (<365 days),Balanced
+418,Front St & Gold St,40.70224,-73.982578,698,11446,12240,794,1.1,493,-510,Established,Balanced
+2012,E 27 St & 1 Ave,40.739445,-73.976806,728,46982,47789,807,1.1,1499,-2430,Established,Balanced
+3148,E 84 St & 1 Ave,40.77565541,-73.95068615,107,5325,5442,117,1.1,-1508,1161,Newer (<365 days),Balanced
+268,Howard St & Centre St,40.71910537,-73.99973337,729,56033,56865,832,1.1,6520,-4681,Established,Balanced
+345,W 13 St & 6 Ave,40.73649403,-73.99704374,730,86465,87238,773,1.1,-1794,1999,Established,Balanced
+466,W 25 St & 6 Ave,40.74395411,-73.99144871,730,78572,79417,845,1.2,7676,-6919,Established,Balanced
+534,Water - Whitehall Plaza,40.70255065,-74.0127234,725,27110,27960,850,1.2,9132,-8752,Established,Balanced
+503,E 20 St & Park Ave,40.73827428,-73.98751968,663,67968,68748,780,1.2,5807,-4909,Established,Balanced
+217,Old Fulton St,40.70277159,-73.99383605,708,32291,33117,826,1.2,760,-362,Established,Balanced
+355,Bayard St & Baxter St,40.71602118,-73.99974372,730,50360,51283,923,1.3,918,-1396,Established,Balanced
+242,Carlton Ave & Flushing Ave,40.697787,-73.973736,705,12128,13020,892,1.3,459,-496,Established,Balanced
+250,Lafayette St & Jersey St,40.72456089,-73.99565293,718,104872,105789,917,1.3,8464,-5621,Established,Balanced
+462,W 22 St & 10 Ave,40.74691959,-74.00451887,729,97784,98768,984,1.3,-5273,2331,Established,Balanced
+116,W 17 St & 8 Ave,40.74177603,-74.00149746,704,91866,92793,927,1.3,2084,-3748,Established,Balanced
+218,Gallatin Pl & Livingston St,40.69028437,-73.98707105,700,8258,9229,971,1.4,-65,-48,Established,Balanced
+388,W 26 St & 10 Ave,40.749717753,-74.002950346,727,62688,63677,989,1.4,8402,-8012,Established,Balanced
+2004,6 Ave & Broome St,40.724399,-74.004704,729,47558,48612,1054,1.4,9992,-8972,Established,Balanced
+3120,Center Blvd & Borden Ave,40.74161,-73.96044,145,1972,2177,205,1.4,-84,131,Newer (<365 days),Balanced
+461,E 20 St & 2 Ave,40.73587678,-73.98205027,730,79415,80426,1011,1.4,-7893,6342,Established,Balanced
+496,E 16 St & 5 Ave,40.73726186,-73.99238967,729,84554,85594,1040,1.4,11061,-8574,Established,Balanced
+536,1 Ave & E 30 St,40.74144387,-73.97536082,705,72307,73272,965,1.4,1419,-2394,Established,Balanced
+157,Henry St & Atlantic Ave,40.69089272,-73.99612349,711,22832,23816,984,1.4,-4508,3379,Established,Balanced
+3086,Graham Ave & Conselyea St,40.715143,-73.944507,130,5161,5345,184,1.4,959,-333,Newer (<365 days),Balanced
+440,E 45 St & 3 Ave,40.75255434,-73.97282625,726,44972,46027,1055,1.5,8155,-6754,Established,Balanced
+377,6 Ave & Canal St,40.72243797,-74.00566443,729,43278,44394,1116,1.5,12247,-9720,Established,Balanced
+306,Cliff St & Fulton St,40.70823502,-74.00530063,705,45015,46091,1076,1.5,2817,-4258,Established,Balanced
+456,E 53 St & Madison Ave,40.7597108,-73.97402311,724,34164,35262,1098,1.5,8775,-8442,Established,Balanced
+271,Ashland Pl & Hanson Pl,40.68522671947255,-73.97800147533415,548,22554,23429,875,1.6,-1724,2416,Established,Balanced
+313,Washington Ave & Park Ave,40.69610226,-73.96751037,725,16300,17467,1167,1.6,-2588,943,Established,Balanced
+274,Lafayette Ave & Fort Greene Pl,40.68691865,-73.976682,727,16119,17334,1215,1.7,-1153,1356,Established,Balanced
+309,Murray St & West St,40.7149787,-74.013012,706,39181,40417,1236,1.8,7000,-9519,Established,Balanced
+410,Suffolk St & Stanton St,40.72066442,-73.98517977,730,67295,68633,1338,1.8,-8754,5954,Established,Balanced
+305,E 58 St & 3 Ave,40.76095756,-73.96724467,730,69127,70416,1289,1.8,5379,-6978,Established,Balanced
+403,E 2 St & 2 Ave,40.72502876,-73.99069656,730,57248,58595,1347,1.8,-6383,5915,Established,Balanced
+438,St Marks Pl & 1 Ave,40.72779126,-73.98564945,730,61343,62660,1317,1.8,-6836,6046,Established,Balanced
+455,1 Ave & E 44 St,40.75001986,-73.96905301,694,43760,45017,1257,1.8,10684,-9519,Established,Balanced
+279,Peck Slip & Front St,40.707873,-74.00167,723,36964,38267,1303,1.8,1519,-1773,Established,Balanced
+458,11 Ave & W 27 St,40.751396,-74.005226,730,75652,76996,1344,1.8,6350,-5415,Established,Balanced
+417,Barclay St & Church St,40.71291224,-74.01020234,700,88982,90307,1325,1.9,-2148,-1417,Established,Balanced
+79,Franklin St & W Broadway,40.71911552,-74.00666661,727,42657,44061,1404,1.9,5075,-3213,Established,Balanced
+488,W 39 St & 9 Ave,40.75645824,-73.99372222,727,86389,87792,1403,1.9,-2998,7867,Established,Balanced
+448,W 37 St & 10 Ave,40.75660359,-73.9979009,729,62760,64169,1409,1.9,-5528,3020,Established,Balanced
+480,W 53 St & 10 Ave,40.76669671,-73.99061728,730,46943,48322,1379,1.9,-6689,3787,Established,Balanced
+3222,Hanson Pl & St Felix St,40.685159599891776,-73.97711366415024,128,6718,6974,256,2.0,-495,844,Newer (<365 days),Balanced
+482,W 15 St & 7 Ave,40.73935542,-73.99931783,729,75573,77023,1450,2.0,-6045,4480,Established,Balanced
+3093,N 6 St & Bedford Ave,40.71745169,-73.95850939,130,9047,9310,263,2.0,1293,-546,Newer (<365 days),Balanced
+259,South St & Whitehall St,40.70122128,-74.01234218,725,37458,38881,1423,2.0,9774,-6972,Established,Balanced
+265,Stanton St & Chrystie St,40.72229346,-73.99147535,730,55519,56957,1438,2.0,-3510,2832,Established,Balanced
+300,Shevchenko Pl & E 7 St,40.728145,-73.990214,730,61270,62710,1440,2.0,-2764,1667,Established,Balanced
+3074,Montrose Ave & Bushwick Ave,40.70767788,-73.94016171,134,3262,3535,273,2.0,155,70,Newer (<365 days),Balanced
+3064,Myrtle Ave & Lewis Ave,40.69681963,-73.93756926,133,2164,2431,267,2.0,123,72,Newer (<365 days),Balanced
+257,Lispenard St & Broadway,40.71939226,-74.00247214,730,49110,50543,1433,2.0,7055,-5229,Established,Balanced
+471,Grand St & Havemeyer St,40.71286844,-73.95698119,674,17658,18988,1330,2.0,-2005,1560,Established,Balanced
+427,State St,40.70251526,-74.01427023,719,36439,37959,1520,2.1,10998,-7776,Established,Balanced
+237,E 11 St & 2 Ave,40.73047309,-73.98672378,729,81466,82963,1497,2.1,-8286,7667,Established,Balanced
+315,South St & Gouverneur Ln,40.70355377,-74.00670227,720,45168,46701,1533,2.1,5928,-3312,Established,Balanced
+483,E 12 St & 3 Ave,40.73223272,-73.98889957,725,82009,83538,1529,2.1,-4875,4774,Established,Balanced
+152,Warren St & Church St,40.71473993,-74.00910627,730,34691,36215,1524,2.1,2766,-1657,Established,Balanced
+310,State St & Smith St,40.68926942,-73.98912867,728,30736,32239,1503,2.1,-3786,3493,Established,Balanced
+323,Lawrence St & Willoughby St,40.69236178,-73.98631746,727,26971,28580,1609,2.2,5715,-3766,Established,Balanced
+164,E 47 St & 2 Ave,40.75323098,-73.97032517,727,42479,44085,1606,2.2,8035,-6918,Established,Balanced
+346,Bank St & Hudson St,40.73652889,-74.00618026,730,57582,59257,1675,2.3,-5271,5299,Established,Balanced
+251,Mott St & Prince St,40.72317958,-73.99480012,702,77078,78722,1644,2.3,1143,758,Established,Balanced
+3140,1 Ave & E 78 St,40.77140426,-73.9535166,113,10858,11120,262,2.3,-2634,2101,Newer (<365 days),Balanced
+161,LaGuardia Pl & W 3 St,40.72917025,-73.99810231,730,79193,80838,1645,2.3,821,1711,Established,Balanced
+392,Jay St & Tech Pl,40.695065,-73.987167,724,24479,26209,1730,2.4,3715,-2306,Established,Balanced
+127,Barrow St & Hudson St,40.73172428,-74.00674436,710,99769,101450,1681,2.4,-2555,1540,Established,Balanced
+83,Atlantic Ave & Fort Greene Pl,40.68382604,-73.97632328,729,20811,22656,1845,2.5,-117,636,Established,Balanced
+539,Metropolitan Ave & Bedford Ave,40.71534825,-73.96024116,729,34888,36682,1794,2.5,-1037,1861,Established,Balanced
+531,Forsyth St & Broome St,40.71893904,-73.99266288,728,65722,67544,1822,2.5,-4725,1738,Established,Balanced
+470,W 20 St & 8 Ave,40.74345335,-74.00004031,729,63675,65575,1900,2.6,-5872,4607,Established,Balanced
+304,Broadway & Battery Pl,40.70463334,-74.01361706,729,50906,52825,1919,2.6,9819,-8203,Established,Balanced
+426,West St & Chambers St,40.71754834,-74.01322069,730,141901,143810,1909,2.6,5541,-5105,Established,Balanced
+439,E 4 St & 2 Ave,40.7262807,-73.98978041,723,67064,68933,1869,2.6,-9303,8030,Established,Balanced
+351,Front St & Maiden Ln,40.70530954,-74.00612572,718,33767,35703,1936,2.7,11028,-9515,Established,Balanced
+2002,Wythe Ave & Metropolitan Ave,40.716887,-73.963198,728,34303,36240,1937,2.7,-2931,2422,Established,Balanced
+229,Great Jones St,40.72743423,-73.99379025,669,73119,75039,1920,2.9,3545,-1309,Established,Balanced
+137,E 56 St & Madison Ave,40.761628,-73.972924,724,38322,40430,2108,2.9,13811,-9039,Established,Balanced
+414,Pearl St & Anchorage Pl,40.70281858,-73.98765762,729,19422,21524,2102,2.9,4076,-2848,Established,Balanced
+311,Norfolk St & Broome St,40.7172274,-73.98802084,728,40760,42953,2193,3.0,-2290,849,Established,Balanced
+430,York St & Jay St,40.7014851,-73.98656928,726,35162,37339,2177,3.0,4937,-2526,Established,Balanced
+3090,N 8 St & Driggs Ave,40.71774592,-73.95600096,136,9191,9608,417,3.1,1451,-671,Newer (<365 days),Balanced
+467,Dean St & 4 Ave,40.68312489,-73.97895137,726,24080,26394,2314,3.2,-4009,3790,Established,Balanced
+537,Lexington Ave & E 24 St,40.74025878,-73.98409214,721,98841,101209,2368,3.3,5907,-4223,Established,Balanced
+435,W 21 St & 6 Ave,40.74173969,-73.99415556,730,160341,162753,2412,3.3,11003,-8932,Established,Balanced
+434,9 Ave & W 18 St,40.74317449,-74.00366443,728,61631,64091,2460,3.4,3521,-1550,Established,Balanced
+532,S 5 Pl & S 4 St,40.710451,-73.960876,726,45837,48462,2625,3.6,-5129,3277,Established,Balanced
+478,11 Ave & W 41 St,40.76030096,-73.99884222,729,61933,64548,2615,3.6,-6739,6699,Established,Balanced
+491,E 24 St & Park Ave S,40.74096374,-73.98602213,671,70986,73467,2481,3.7,14702,-12102,Established,Balanced
+398,Atlantic Ave & Furman St,40.69165183,-73.9999786,692,20722,23343,2621,3.8,-1124,2310,Established,Balanced
+255,NYCBS Depot - SSP,40.646768,-74.01651,11,15,57,42,3.8,47,-7,Temporary,Balanced
+405,Washington St & Gansevoort St,40.739323,-74.008119,730,81041,83935,2894,4.0,-3056,3319,Established,Balanced
+303,Mercer St & Spring St,40.72362738,-73.99949601,730,51184,54089,2905,4.0,7399,-4313,Established,Balanced
+260,Broad St & Bridge St,40.70365182,-74.01167797,713,21839,24675,2836,4.0,11918,-8623,Established,Balanced
+3242,Schermerhorn St & Court St,40.69102925677968,-73.99183362722398,2,15,23,8,4.0,1,3,Newer (<365 days),Balanced
+347,Greenwich St & W Houston St,40.728846,-74.008591,663,83654,86444,2790,4.2,9203,-8193,Established,Balanced
+317,E 6 St & Avenue B,40.72453734,-73.98185424,705,53776,56841,3065,4.3,-7293,7203,Established,Balanced
+463,9 Ave & W 16 St,40.74206539,-74.00443172,730,78621,81736,3115,4.3,6616,-4985,Established,Balanced
+375,Mercer St & Bleecker St,40.72679454,-73.99695094,728,87724,90891,3167,4.4,5700,-2235,Established,Balanced
+128,MacDougal St & Prince St,40.72710258,-74.00297088,665,84402,87352,2950,4.4,6812,-4264,Established,Balanced
+329,Greenwich St & N Moore St,40.72043411,-74.01020609,730,67924,71167,3243,4.4,7530,-7843,Established,Balanced
+2000,Front St & Washington St,40.70255088,-73.98940236,720,30264,33495,3231,4.5,4643,-3819,Established,Balanced
+243,Fulton St & Rockwell Pl,40.687979,-73.978474,716,13853,17150,3297,4.6,4602,-832,Established,Balanced
+404,9 Ave & W 14 St,40.7405826,-74.00550867,608,62326,65193,2867,4.7,5739,-2413,Established,Balanced
+168,W 18 St & 6 Ave,40.73971301,-73.99456405,702,104902,108254,3352,4.8,10332,-8092,Established,Balanced
+147,Greenwich St & Warren St,40.71542197,-74.01121978,730,86456,89949,3493,4.8,6372,-4111,Established,Balanced
+487,E 20 St & FDR Drive,40.73314259,-73.97573881,730,56853,60473,3620,5.0,-10178,9540,Established,Balanced
+493,W 45 St & 6 Ave,40.7568001,-73.98291153,683,54264,57714,3450,5.1,11772,-6117,Established,Fills up
+515,W 43 St & 10 Ave,40.76009437,-73.99461843,730,68460,72329,3869,5.3,-6078,7856,Established,Fills up
+358,Christopher St & Greenwich St,40.73291553,-74.00711384,729,115757,119656,3899,5.3,-8142,6882,Established,Fills up
+432,E 7 St & Avenue A,40.72621788,-73.98379855,721,85839,89760,3921,5.4,-19312,8096,Established,Fills up
+368,Carmine St & 6 Ave,40.73038599,-74.00214988,729,117972,121884,3912,5.4,-3486,5849,Established,Fills up
+453,W 22 St & 8 Ave,40.74475148,-73.99915362,730,78792,82881,4089,5.6,-6461,7943,Established,Fills up
+509,9 Ave & W 22 St,40.7454973,-74.00197139,730,89132,93240,4108,5.6,-5855,7024,Established,Fills up
+2010,Grand St & Greene St,40.72165481,-74.00234737,729,49761,53934,4173,5.7,7129,-3811,Established,Fills up
+3145,E 84 St & Park Ave,40.77862688,-73.95772073,108,9785,10409,624,5.8,-1528,902,Newer (<365 days),Fills up
+359,E 47 St & Park Ave,40.75510267,-73.97498696,726,70928,75115,4187,5.8,17096,-12262,Established,Fills up
+352,W 56 St & 6 Ave,40.76340613,-73.97722479,728,62344,66778,4434,6.1,11458,-7737,Established,Fills up
+337,Old Slip & Front St,40.7037992,-74.00838676,722,26333,30977,4644,6.4,14192,-10172,Established,Fills up
+530,11 Ave & W 59 St,40.771522,-73.990541,602,53508,57622,4114,6.8,-6442,5509,Established,Fills up
+225,W 14 St & The High Line,40.74195138,-74.00803013,727,51873,56962,5089,7.0,6964,-4277,Established,Fills up
+284,Greenwich Ave & 8 Ave,40.73901691,-74.00263761,730,123385,128682,5297,7.3,-2399,3881,Established,Fills up
+3104,Kent Ave & N 7 St,40.72057658,-73.96150225,136,10550,11548,998,7.3,-197,334,Newer (<365 days),Fills up
+484,W 44 St & 5 Ave,40.75500254,-73.98014437,722,58664,64054,5390,7.5,13274,-8711,Established,Fills up
+3224,W 13 St & Hudson St,40.73997354103409,-74.00513872504233,123,12679,13611,932,7.6,1240,-608,Newer (<365 days),Fills up
+459,W 20 St & 11 Ave,40.746745,-74.007756,718,102280,108328,6048,8.4,6188,-439,Established,Fills up
+382,University Pl & E 14 St,40.73492695,-73.99200509,730,119207,125411,6204,8.5,6093,-729,Established,Fills up
+348,W Broadway & Spring St,40.72490985,-74.00154702,729,76500,82922,6422,8.8,7336,-3240,Established,Fills up
+520,W 52 St & 5 Ave,40.75992262,-73.97648516,718,45046,52197,7151,10.0,16765,-10052,Established,Fills up
+514,12 Ave & W 40 St,40.76087502,-74.00277668,728,89224,96712,7488,10.3,-8774,12837,Established,Fills up
+477,W 41 St & 8 Ave,40.75640548,-73.9900262,727,116341,123837,7496,10.3,-8235,23227,Established,Fills up
+415,Pearl St & Hanover Square,40.7047177,-74.00926027,729,39187,46817,7630,10.5,12442,-8440,Established,Fills up
+510,W 51 St & 6 Ave,40.7606597,-73.98042047,724,58784,67525,8741,12.1,20966,-13145,Established,Fills up
+497,E 17 St & Broadway,40.73704984,-73.99009296,728,166000,175549,9549,13.1,16991,-9394,Established,Fills up
+324,DeKalb Ave & Hudson Ave,40.689888,-73.981013,729,25272,37331,12059,16.5,12887,-2536,Established,Fills up
+492,W 33 St & 7 Ave,40.75019995,-73.99093085,730,88003,109735,21732,29.8,-4646,27346,Established,Fills up
